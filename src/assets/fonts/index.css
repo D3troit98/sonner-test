@@ -1,0 +1,115 @@
+/* ================= Proxima Nova ================= */
+
+@font-face {
+    font-family: "Proxima Nova";
+    src: url("./proxima_ssv/ProximaNova-Regular.otf") format("opentype");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: "Proxima Nova";
+    src: url("./proxima_ssv/Proxima Nova Bold.otf") format("opentype");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: "Proxima Nova";
+    src: url("./proxima_ssv/Proxima Nova Thin.otf") format("opentype");
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: "Proxima Nova";
+    src: url("./proxima_ssv/Proxima Nova Black.otf") format("opentype");
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: "Proxima Nova";
+    src: url("./proxima_ssv/Proxima Nova Alt Light.otf") format("opentype");
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: "Proxima Nova";
+    src: url("./proxima_ssv/Proxima Nova Extrabold.otf") format("opentype");
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  /* ================= Neue Haas Grotesk Display ================= */
+
+  @font-face {
+    font-family: "Neue Haas Grotesk Display";
+    src: url("./neue-haas-grotesk-display-pro-cdnfonts/NeueHaasDisplayRoman.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: "Neue Haas Grotesk Display";
+    src: url("./neue-haas-grotesk-display-pro-cdnfonts/NeueHaasDisplayRomanItalic.ttf") format("truetype");
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: "Neue Haas Grotesk Display";
+    src: url("./neue-haas-grotesk-display-pro-cdnfonts/NeueHaasDisplayThin.ttf") format("truetype");
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: "Neue Haas Grotesk Display";
+    src: url("./neue-haas-grotesk-display-pro-cdnfonts/NeueHaasDisplayThinItalic.ttf") format("truetype");
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: "Neue Haas Grotesk Display";
+    src: url("./neue-haas-grotesk-display-pro-cdnfonts/NeueHaasDisplayBold.ttf") format("truetype");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: "Neue Haas Grotesk Display";
+    src: url("./neue-haas-grotesk-display-pro-cdnfonts/NeueHaasDisplayBoldItalic.ttf") format("truetype");
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: "Neue Haas Grotesk Display";
+    src: url("./neue-haas-grotesk-display-pro-cdnfonts/NeueHaasDisplayBlack.ttf") format("truetype");
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: "Neue Haas Grotesk Display";
+    src: url("./neue-haas-grotesk-display-pro-cdnfonts/NeueHaasDisplayBlackItalic.ttf") format("truetype");
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+  }
