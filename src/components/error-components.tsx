@@ -15,10 +15,10 @@ const NotFoundPage = () => {
           />
         </div>
         <button
-          onClick={() => window.history.back()}
+          onClick={() => (window.location.pathname = "/")}
           className="mt-8 px-6 py-3 bg-teal-600 text-white rounded-lg hover:bg-teal-700 transition-colors"
         >
-          Go Back
+          Go Home
         </button>
       </div>
     </div>
